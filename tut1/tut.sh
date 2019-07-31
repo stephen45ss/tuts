@@ -1,0 +1,10 @@
+echo "Starting Hello World program..."
+./hellow
+echo " "
+echo "as you can see it simply prints text"
+echo "This is achieved by using cout and our text in quotes"
+echo "To compile you'll need g++ installed"
+echo "terminal command to compile code: g++ hellow.cpp -o hellow"
+echo "remove hellow before running g++ command otherwise you'll just overwirte existing hellow file"
+echo "to run program just type ./ in front of hellow and press enter"
+echo "Example Usage: ./hellow "
