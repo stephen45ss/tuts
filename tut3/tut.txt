@@ -13,6 +13,9 @@ Now hmm equals 4 simple. You can also have a user input a value by:
 cin >> hmm;
  also this tutorial teaches you about if else statements and goto statements
 if you have any question look at the code comments in C++ source code provided 
+
+rcalc2.cpp is the same program but using functions to do the math then display them
+
 And Please Don't steal or take credit for my source code I know it's simple but I've spent my time to write it so 
 if you want to edit it go ahead just don't take all the credit for my base code OK?
 Thank you and enjoy the learning experience!!
