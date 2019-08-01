@@ -1,0 +1,19 @@
+		This is a Simple calculator to learn how to use some variables in C++ 
+1. int stands for integer so only whole numbers can be used for this variable type
+2. float for non-whole numbers I prefer using double to float but there could be specific reason to use float over double just can't think of any right now
+3. double the upgrade to float
+4. string variable for single words
+5. char or character array variable stores a certain number of characters that has to be specified
+
+Example: 
+int hmm;
+so now we have a integer named hmm that nas no value currently. we can add a value by doing this:
+int hmm = 4;
+Now hmm equals 4 simple. You can also have a user input a value by:
+cin >> hmm;
+ also this tutorial teaches you about if else statements and goto statements
+if you have any question look at the code comments in C++ source code provided 
+And Please Don't steal or take credit for my source code I know it's simple but I've spent my time to write it so 
+if you want to edit it go ahead just don't take all the credit for my base code OK?
+Thank you and enjoy the learning experience!!
+
