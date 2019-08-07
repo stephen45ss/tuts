@@ -3,6 +3,7 @@ These are my C++ tutorials for begginers
 tut1 is a simple hello world example
 tut2 is a variant of hello world using user input
 tut3 is a calculator I wrote to demonstrate variable types
+tut4 is a program that records input to a file and reads it
 
 Every folder has a tut.sh just type ./tut.sh to begin tutorial 
 Reminder: you have to cd into one of the tut folders before using ./tut.sh 
