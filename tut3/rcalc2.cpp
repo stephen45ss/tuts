@@ -1,7 +1,7 @@
 #include <iostream> /* Needed for cin and cout */
 #include <math.h> /* Needed for the math to work */
 #include <string.h> /* need this header file for string variable to work */
-using namespace std; /* use namespace std to prevent having to add std:: infront oof every cin and cout */
+using namespace std; /* use namespace std to prevent having to add std:: in front of every cin and cout */
 
 double a;
 double b;
