@@ -14,7 +14,7 @@ Erase the compiled program before compiling the source code or you'll just overw
 Also I suggest using vim or nano to view the source code or text files included in the folders.
 All tutorials include the compiled program and source code for that program.
 
-PlEASE do not take credit for my source code you are free to modify it for learning purposes but don't claim it as yours.
+PLEASE do not take credit for my source code you are free to modify it for learning purposes but don't claim it as yours.
 As long as you follow that rule I'm ok with you using or modifying my source code. I believe knowledge should be free for anyone willing to learn.
 
 Lastly IF you want to contribute you can but please contact me first and follow these simple rules:
